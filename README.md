@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcode.card.workers.dev/rush_p?theme=nord&font=&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/rush_p?theme=nord&font=&extension=activity)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=RusPatel1996&count_private=true&show_icons=true&hide_border=true&theme=nord&line_height=24)
 
